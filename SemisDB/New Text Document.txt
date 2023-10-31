@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Bookstore</title>
+    <style>
+        /* Your CSS styles */
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="index.php">Home</a>
+        <a href="customers.php">Customers</a>
+        <a href="items.php">Items</a>
+    </div>
+    <h1>Welcome to the Online Bookstore!</h1>
+    <p>Explore our collection of books and much more.</p>
+</body>
+</html>
